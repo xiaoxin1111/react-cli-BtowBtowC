@@ -1,5 +1,5 @@
 import React,{Component} from "react";
-import request from "../request"
+import request from "../api/api"
 class Home extends Component{
     render(){
         return(

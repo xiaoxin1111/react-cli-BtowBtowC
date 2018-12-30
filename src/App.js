@@ -16,6 +16,9 @@ class App extends Component {
       </div>
     );
   }
+  componentWillMount(){
+
+  }
 }
 
 export default App;
